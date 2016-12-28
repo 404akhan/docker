@@ -11,6 +11,7 @@ app.listen(3000, function () {
 
 var unuased_var = 2;
 x =4;
+y=3
 function my_func(a,b){
 return a;
 }
