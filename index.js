@@ -9,3 +9,5 @@ app.listen(3000, function () {
   console.log('Example app listening on port 3000!')
 });
 
+var unuased_var = 2;
+x =4;	
