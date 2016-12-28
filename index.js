@@ -11,3 +11,7 @@ app.listen(3000, function () {
 
 var unuased_var = 2;
 x =4;	
+asdsadkv
+sad
+xmvxm(){
+
